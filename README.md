@@ -29,3 +29,18 @@ What is the average price per bedroom?
 Which areas have the highest concentration of listings?
 How does availability impact revenue?
 What trends can be observed across different property types?
+
+## Data Preparation
+Verified data quality and removed inconsistencies.
+Checked for missing values and anomalies.
+Formatted data fields for analysis.
+Created calculated fields and metrics in Tableau.
+Built interactive visualizations and filters.
+
+## Dashboard Features
+Interactive filters
+Revenue analysis by location
+Price distribution across neighborhoods
+Bedroom-wise pricing analysis
+Listing density visualization
+Dynamic dashboard navigation
