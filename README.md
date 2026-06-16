@@ -52,6 +52,11 @@ The dataset contains Airbnb listing information, including:
 - Revenue is strongly influenced by location and availability.
 - Some areas have a high concentration of Airbnb listings, indicating strong market demand.
 - Interactive filtering enables deeper exploration of regional trends.
+
+## Dashboard
+<img width="1650" height="793" alt="Screenshot 2026-06-16 124933" src="https://github.com/user-attachments/assets/02f1c445-5925-4f42-b99a-261452cc4094" />
+
+
 ## Conclusion
 
 This Tableau dashboard provides valuable insights into Airbnb market performance. By analyzing pricing, revenue, and listing distribution, stakeholders can better understand market dynamics and make data-driven decisions regarding property investment, pricing strategies, and location selection.
