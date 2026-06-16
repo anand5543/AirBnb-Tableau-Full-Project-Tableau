@@ -4,11 +4,11 @@
 The objective of this project is to analyze Airbnb listing data using Tableau to uncover trends in pricing, revenue, occupancy, and listing distribution across different locations. The dashboard helps users understand the Airbnb market and identify factors that influence listing performance.
 
 ##Tools & Technologies
--Tableau
--Data Visualization
--Data Analysis
--Data Cleaning
--Interactive Dashboard Design
+- Tableau
+- Data Visualization
+- Data Analysis
+- Data Cleaning
+- Interactive Dashboard Design
 
 ## Dataset used
 - <a href="https://github.com/anand5543/AirBnb-Tableau-Full-Project-Tableau/blob/main/AirBnB%20Tableau%20Full%20Project.twbx">Dataset</a>
