@@ -15,32 +15,32 @@ The objective of this project is to analyze Airbnb listing data using Tableau to
 
 The dataset contains Airbnb listing information, including:
 
-Property location
-Price
-Number of bedrooms
-Availability
-Revenue metrics
-Listing details
+- Property location
+- Price
+- Number of bedrooms
+- Availability
+- Revenue metrics
+- Listing details
 
 ## Key Business Questions
-Which neighborhoods generate the highest revenue?
-How does price vary across locations?
-What is the average price per bedroom?
-Which areas have the highest concentration of listings?
-How does availability impact revenue?
-What trends can be observed across different property types?
+- Which neighborhoods generate the highest revenue?
+- How does price vary across locations?
+- What is the average price per bedroom?
+- Which areas have the highest concentration of listings?
+- How does availability impact revenue?
+- What trends can be observed across different property types?
 
 ## Data Preparation
-Verified data quality and removed inconsistencies.
-Checked for missing values and anomalies.
-Formatted data fields for analysis.
-Created calculated fields and metrics in Tableau.
-Built interactive visualizations and filters.
+- Verified data quality and removed inconsistencies.
+- Checked for missing values and anomalies.
+- Formatted data fields for analysis.
+- Created calculated fields and metrics in Tableau.
+- Built interactive visualizations and filters.
 
 ## Dashboard Features
-Interactive filters
-Revenue analysis by location
-Price distribution across neighborhoods
-Bedroom-wise pricing analysis
-Listing density visualization
-Dynamic dashboard navigation
+- Interactive filters
+- Revenue analysis by location
+- Price distribution across neighborhoods
+- Bedroom-wise pricing analysis
+- Listing density visualization
+- Dynamic dashboard navigation
