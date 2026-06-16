@@ -1,2 +1,4 @@
-# AirBnb-Tableau-Full-Project-Tableau
-An interactive Tableau dashboard that analyzes Airbnb listing data to uncover insights into pricing, revenue, and neighborhood performance. The project uses data visualization techniques to identify trends and support data-driven decision-making.
+# Airbnb Data Analysis Dashboard (Tableau)
+## Project Objective
+
+The objective of this project is to analyze Airbnb listing data using Tableau to uncover trends in pricing, revenue, occupancy, and listing distribution across different locations. The dashboard helps users understand the Airbnb market and identify factors that influence listing performance.
